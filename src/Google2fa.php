@@ -1,6 +1,6 @@
 <?php
 
-namespace Lifeonscreen\Google2fa;
+namespace Bashgeek\Google2fa;
 
 use Laravel\Nova\Tool;
 use PragmaRX\Google2FA\Google2FA as G2fa;

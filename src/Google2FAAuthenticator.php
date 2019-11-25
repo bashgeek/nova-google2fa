@@ -1,6 +1,6 @@
 <?php
 
-namespace Lifeonscreen\Google2fa;
+namespace Bashgeek\Google2fa;
 
 use Exception;
 use PragmaRX\Google2FALaravel\Support\Authenticator;

@@ -1,6 +1,6 @@
 <?php
 
-namespace Lifeonscreen\Google2fa\Models;
+namespace Bashgeek\Google2fa\Models;
 
 use Illuminate\Database\Eloquent\Model;
 use Illuminate\Database\Eloquent\Relations\BelongsTo;

@@ -1,9 +1,9 @@
 <?php
 
-namespace Lifeonscreen\Google2fa\Http\Middleware;
+namespace Bashgeek\Google2fa\Http\Middleware;
 
 use Closure;
-use Lifeonscreen\Google2fa\Google2FAAuthenticator;
+use Bashgeek\Google2fa\Google2FAAuthenticator;
 use PragmaRX\Google2FA\Google2FA as G2fa;
 use PragmaRX\Recovery\Recovery;
 

@@ -1,5 +1,5 @@
 {
-    "name": "lifeonscreen/nova-google2fa",
+    "name": "bashgeek/nova-google2fa",
     "description": "This package provides Google2FA to Laravel Nova.",
     "keywords": [
         "laravel",
@@ -14,13 +14,13 @@
     },
     "autoload": {
         "psr-4": {
-            "Lifeonscreen\\Google2fa\\": "src/"
+            "Bashgeek\\Google2fa\\": "src/"
         }
     },
     "extra": {
         "laravel": {
             "providers": [
-                "Lifeonscreen\\Google2fa\\ToolServiceProvider"
+                "bashgeek\\Google2fa\\ToolServiceProvider"
             ]
         }
     },

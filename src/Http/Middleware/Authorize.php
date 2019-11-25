@@ -1,8 +1,8 @@
 <?php
 
-namespace Lifeonscreen\Google2fa\Http\Middleware;
+namespace Bashgeek\Google2fa\Http\Middleware;
 
-use Lifeonscreen\Google2fa\Google2fa;
+use Bashgeek\Google2fa\Google2fa;
 
 class Authorize
 {

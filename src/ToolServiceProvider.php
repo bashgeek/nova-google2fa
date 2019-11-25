@@ -1,10 +1,10 @@
 <?php
 
-namespace Lifeonscreen\Google2fa;
+namespace Bashgeek\Google2fa;
 
 use Illuminate\Support\Facades\Route;
 use Illuminate\Support\ServiceProvider;
-use Lifeonscreen\Google2fa\Http\Middleware\Authorize;
+use Bashgeek\Google2fa\Http\Middleware\Authorize;
 
 class ToolServiceProvider extends ServiceProvider
 {

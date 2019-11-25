@@ -1,6 +1,6 @@
 <?php
 
-use Lifeonscreen\Google2fa\Models\User2fa;
+use Bashgeek\Google2fa\Models\User2fa;
 
 return [
     /**

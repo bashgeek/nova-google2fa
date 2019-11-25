@@ -21,9 +21,9 @@ class CreateUser2faTable extends Migration
             $table->text('recovery')->nullable();
             $table->timestamps();
 
-            $table->foreign('user_id')
-                ->references('id')
-                ->on(config('lifeonscreen2fa.tables.user'));
+//            $table->foreign('user_id')
+//                ->references('id')
+//                ->on(config('lifeonscreen2fa.tables.user'));
         });
     }
 
