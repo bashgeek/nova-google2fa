@@ -20,7 +20,7 @@
     "extra": {
         "laravel": {
             "providers": [
-                "bashgeek\\Google2fa\\ToolServiceProvider"
+                "Bashgeek\\Google2fa\\ToolServiceProvider"
             ]
         }
     },
